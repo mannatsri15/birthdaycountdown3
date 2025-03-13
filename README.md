@@ -1,5 +1,3 @@
-# birthdaycountdown3
-Happy 15 Soon Mahi!
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,4 +40,3 @@ Happy 15 Soon Mahi!
     </script>
 </body>
 </html>
-
